@@ -1,0 +1,4 @@
+name: Test2
+version: '1.0-SNAPSHOT'
+main: asdanjer.test2.Test2
+api-version: '1.20'
